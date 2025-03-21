@@ -20,7 +20,6 @@ src/config/keys
 # Environment variables
 .env
 Dockerfile
-old_structure/
 
 # Coverage directory for testing reports
 coverage/
